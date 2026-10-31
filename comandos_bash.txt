@@ -1,0 +1,6 @@
+mkdir = cria uma pasta
+ls = lista arquivos
+cd = entra na pasta
+pwd = mostra o diretorio de trabalho
+cat = ler o conteúdo do arquivo
+git .ini = torna a pasta um repositório Git
