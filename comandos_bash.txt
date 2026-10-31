@@ -3,4 +3,7 @@ ls = lista arquivos
 cd = entra na pasta
 pwd = mostra o diretorio de trabalho
 cat = ler o conteúdo do arquivo
+rm = remove arquivo ou diretorio
 git .ini = torna a pasta um repositório Git
+git status = como esta o diretório
+git add = adicionar arquivos para versionamento
