@@ -1,9 +1,9 @@
-git .ini -> torna a pasta um repositório Git
-git status -> mostra o status do trabalho
-git add -> adicionar arquivos para versionamento
-git commit -m msg" -> faz commit do que stara para ser 
-git add nome_arquivo -> adiciona arquivo para ser commitado
-git log -> mostra todo o histórico de commits
+git .ini 		-> torna a pasta um repositório Git
+git status 		-> mostra o status do trabalho
+git add 		-> adicionar arquivos para versionamento
+git commit -m msg" 	-> faz commit do que stara para ser 
+git add nome_arquivo 	-> adiciona arquivo para ser commitado
+git log 		-> mostra todo o histórico de commits
 
 FLUXO DE TRABALHO
 1- Criar o diretório do projeto
