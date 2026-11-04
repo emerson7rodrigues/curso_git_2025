@@ -14,6 +14,7 @@ Confira tudo o que temos no nosso YouTube. É grátis! Segue o link:
 
 [Curso Git 2025]: (https://www.youtube.com/watch?v=M-mBmYj7Jh4&list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL&index=7)
 
+Se liga no nosso canal do youtube e site e agenda para ficar por dentro de tudo que vai rolar em 2025
 
 
 \-------
